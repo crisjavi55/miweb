@@ -1,0 +1,2 @@
+# rutas que ignora y no vayan al repo 
+.env
